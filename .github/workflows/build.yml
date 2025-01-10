@@ -13,7 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      PUBLIC_URL: https://trotttrotttrott.com/es9-mixer/build
+      PUBLIC_URL: https://odaacabeef.com/es9-mixer/build
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v3

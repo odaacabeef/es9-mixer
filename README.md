@@ -1,6 +1,6 @@
 # ES-9 Mixer
 
-![Build Status](https://github.com/trotttrotttrott/es9-mixer/actions/workflows/build.yml/badge.svg)
+![Build Status](https://github.com/odaacabeef/es9-mixer/actions/workflows/build.yml/badge.svg)
 
 Mixer for the Expert Sleepers [ES-9 USB audio
 interface](https://www.expert-sleepers.co.uk/es9.html).
@@ -17,7 +17,7 @@ Requires firmware 1.3.0 or later which can be downloaded
 
 ## Usage
 
-Use hosted build: https://trotttrotttrott.com/es9-mixer/build/
+Use hosted build: https://odaacabeef.com/es9-mixer/build/
 
 or...
 
