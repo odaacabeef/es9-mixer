@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://odaacabeef.com/es9-mixer/build/static/css/main.cb3cff07.css",
+    "main.js": "https://odaacabeef.com/es9-mixer/build/static/js/main.839e8d75.js",
+    "index.html": "https://odaacabeef.com/es9-mixer/build/index.html",
+    "main.cb3cff07.css.map": "https://odaacabeef.com/es9-mixer/build/static/css/main.cb3cff07.css.map",
+    "main.839e8d75.js.map": "https://odaacabeef.com/es9-mixer/build/static/js/main.839e8d75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb3cff07.css",
+    "static/js/main.839e8d75.js"
+  ]
+}
